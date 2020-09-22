@@ -9,7 +9,7 @@
 News API:(https://newsapi.org/)
 
 # APk-
-Download the app using this APK-(https://github.com/bishtneeraj19/News-App/blob/master/app-release.apk)
+Download the app using this APK-https://github.com/bishtneeraj19/News-App/blob/master/app-debug.apk)
 
 # Images Of App-
 ![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-57-43-94_73c75ded801623ce928c886f9438e8b5.jpg) 
