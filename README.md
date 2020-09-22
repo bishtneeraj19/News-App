@@ -12,7 +12,12 @@ News API:(https://newsapi.org/)
 Download the app using this APK-(https://github.com/bishtneeraj19/News-App/blob/master/app-release.apk)
 
 # Images Of App-
-![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-21-13-22-34-30.jpg) 
-![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-21-13-22-47-26_73c75ded801623ce928c886f9438e8b5.jpg)
-![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-21-13-22-57-04_73c75ded801623ce928c886f9438e8b5.jpg)
-![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-21-13-23-05-23_73c75ded801623ce928c886f9438e8b5.jpg)
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-57-43-94_73c75ded801623ce928c886f9438e8b5.jpg) 
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-57-57-51_73c75ded801623ce928c886f9438e8b5.jpg)
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-58-50-88_73c75ded801623ce928c886f9438e8b5.jpg)
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-59-03-84_73c75ded801623ce928c886f9438e8b5.jpg)
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-14-04-40-08_73c75ded801623ce928c886f9438e8b5.jpg) 
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-59-45-97.jpg) 
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-59-49-92.jpg) 
+![alt text](https://github.com/bishtneeraj19/News-App/blob/master/Screenshot_2020-09-22-13-59-13-10_73c75ded801623ce928c886f9438e8b5.jpg) 
+
